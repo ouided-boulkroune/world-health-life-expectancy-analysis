@@ -44,24 +44,27 @@ including GDP, education, vaccination rates, and country development status.
 ---
 
 ## 📁 Project Structure
+
 health-analysis-project/
 │
-├── Life Expectancy Data.csv                    # Original dataset from Kaggle
-├── analysis.ipynb                              # Python notebook with full analysis
-├── chart1_status_vs_life_expectancy.png        # Developed vs Developing boxplot
-├── chart2_top10_countries.png                  # Top 10 countries bar chart
-├── chart3_bottom10_countries.png               # Bottom 10 countries bar chart
-├── chart4_gdp_vs_life_expectancy.png           # GDP vs Life expectancy scatter
-├── chart5_schooling_vs_life_expectancy.png     # Schooling vs Life expectancy scatter
-├── chart6_trend_2000_2015.png                  # Global trend line chart
-├── chart7_developed_vs_developing.png          # Comparison bar chart
-├── chart8_top_bottom_countries.png             # Top and bottom countries combined
-├── clean_health_data.csv                       # Cleaned dataset
-├── health_data.db                              # SQLite database
-├── world-health-analysis.pbix                  # Power BI dashboard
-├── dashboard_screenshot.png                    # Dashboard preview image
-└── README.md                                   # Project documentation
+├── Life Expectancy Data.csv
+├── analysis.ipynb
+├── chart1_status_vs_life_expectancy.png
+├── chart2_top10_countries.png
+├── chart3_bottom10_countries.png
+├── chart4_gdp_vs_life_expectancy.png
+├── chart5_schooling_vs_life_expectancy.png
+├── chart6_trend_2000_2015.png
+├── chart7_developed_vs_developing.png
+├── chart8_top_bottom_countries.png
+├── clean_health_data.csv
+├── health_data.db
+├── world-health-analysis.pbix
+├── dashboard_screenshot.png
+└── README.md
+
 ---
+
 
 ## 📈 Charts Created
 1. Life Expectancy Trend (2000-2015)
