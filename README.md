@@ -60,7 +60,7 @@ health-analysis-project/
 ├── clean_health_data.csv
 ├── health_data.db
 ├── world-health-analysis.pbix
-├── dashboard_screenshot.png
+├── Health_analysis_project.png
 └── README.md
 
 ---
