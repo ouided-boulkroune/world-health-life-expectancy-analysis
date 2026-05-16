@@ -96,5 +96,6 @@ Key questions answered using SQL:
 ## 👩‍💻 Author
 **Ouided Boulkroune**
 Information Systems Engineer | Data Analyst | Data-Driven Decision Making
+
 📧 ouided.bk.analyst@gmail.com
 🔗 www.linkedin.com/in/ouided-boulkroune
