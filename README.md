@@ -39,7 +39,7 @@ including GDP, education, vaccination rates, and country development status.
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](Health_analysis_project(2).png)
+![Dashboard](Health_analysis_project (2).png)
 
 ---
 
